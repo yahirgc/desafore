@@ -1,0 +1,59 @@
+body {margin:20;
+           background-color : #110000;
+      COLOR:#FFFFFF;
+      FONT-FAMILY:CHANDAS;}
+
+ FIELDSET{  border:solid #220000 8px; 
+            padding:15px;
+            TEXT-ALIGN:LEFT;}
+          
+    Legend{border:solid 0px #ffffff;
+            padding:5px;
+            font-weight: bold;
+            background: #080008;
+            COLOR:#FFFFFF;}
+
+
+A {color: #7B18A7;}
+
+
+a:visited {color: #D6A6FA;}
+
+
+a:hover {color:#faefa6;}
+
+
+table {border-collapse: collapse;
+           border: 2px solid violet;
+           table-layout: fixed;
+           width:100%}
+
+
+td {padding: 5px;
+      border: 1px solid violet;}
+
+
+th {color:white;
+      background-color: violet;
+      padding: 5px}
+
+
+tr {height:45px;}
+
+
+H1 { 
+           font-size: 47px;
+           line-height: 40px;
+           color: #ffffff;
+           text-align: center;
+           font-style: bold;
+            BACKGROUND:#550000}
+
+.el   {background-color: #000000;
+  color: #ffffff;
+  border: 0px solid #220000;
+  margin: 5px;
+  padding: 20px;}
+
+
+
